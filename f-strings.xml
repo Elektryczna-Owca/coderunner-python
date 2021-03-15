@@ -270,7 +270,7 @@ c="3.141592"]]></text>
     <showsource>0</showsource>
     <answerboxlines>1</answerboxlines>
     <answerboxcolumns>100</answerboxcolumns>
-    <answerpreload><![CDATA[print(f"{a}{b}{c}")]]></answerpreload>
+    <answerpreload><![CDATA[print(f"{x}")]]></answerpreload>
     <globalextra></globalextra>
     <useace></useace>
     <resultcolumns></resultcolumns>
