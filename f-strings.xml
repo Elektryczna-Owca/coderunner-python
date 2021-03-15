@@ -1057,7 +1057,7 @@ print(SEPARATOR)
       <text>Display value in hexadecimal format</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p dir="ltr" style="text-align: left;">Using f-string display variable x in hexadecimal format, using upper-case for letterX.<br></p>]]></text>
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Using f-string display variable x in hexadecimal format, using upper-case for letters A-F.<br></p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p dir="ltr" style="text-align: left;">For the lower-case (e.g. ff) you could use:</p><p dir="ltr" style="text-align: left;">print(f"{x:x}")<br></p>]]></text>
