@@ -1985,7 +1985,7 @@ print(SEPARATOR)
       <text>Right align the variables</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p dir="ltr" style="text-align: left;">Using f-string display text prints 3 variables - a, b, c in the following way:</p><ul><li>all values should be placed in columns that are 20 characters wide.</li><li>all values should be right-aligned<br></li></ul><br>]]></text>
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Using f-string display text prints 3 variables - a, b, c in the following way:</p><ul><li>all values should be placed in columns that are 10 characters wide.</li><li>all values should be right-aligned<br></li></ul><br>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text></text>
