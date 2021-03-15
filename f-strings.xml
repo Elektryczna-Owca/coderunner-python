@@ -1814,7 +1814,7 @@ And line 3.</text>
       <text>Pad numbers with zeroes</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p dir="ltr" style="text-align: left;">Using f-string display text print a 3 variable a padded with maximum of 6 zeroes in front.</p><p dir="ltr" style="text-align: left;">The total length of output string will be 6.<br></p>]]></text>
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Display variable "a" padded with maximum of 6 zeroes in front.</p><p dir="ltr" style="text-align: left;">The total length of output string will be 6.<br></p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p dir="ltr" style="text-align: left;">The length of the resulting string may be more than 6 characters, if the variable was wider than 6 characters in first place.<br></p>]]></text>
